@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #87CEFA, #1E90FF);
+    font-family: sans-serif;
+}
+
+#game-container {
+    position: relative;
+}
